@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormDoiHinhThiDau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddClub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddGoal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddMatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddReferee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBangXepHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDanhSachCauThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDanhSachClub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDanhSachTrongTai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDetailMatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEditClub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEditMatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEditPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEditReferee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLichThiDau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLichThiDauChoClub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmListPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSendFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSettingAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTheThucThamGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmThongSoGiaiDau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmViewAndEditInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmXemDoiHinhThiDau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,78 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Premier League hay còn được người hâm mộ bóng đá biết đến với một tên gọi khác là Ngoại hạng Anh. Đây chính là giải bóng đá cao cấp nhất dành cho các câu lạc bộ bóng đá nam chuyên nghiệp tại Anh.Premier League bắt đầu được thành lập vào ngày 20 tháng 2 năm 1992 với cái tên ban đầu là FA Premier League. Mỗi mùa giải Premier League diễn ra đều có sự góp mặt của những câu lạc bộ bóng đá hàng đầu thế giới hiện nay. </value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Kể từ mùa giải 2009 – 2010, xuất tham dự UEFA Champions League đã bị thay đổi. 4 đội bóng đứng đầu tại Premier League sẽ được tham dự UEFA Champions. 3 đội đầu bảng sẽ giành quyền tham dự từ vòng thi đấu trực tiếp và đội xếp ở vị trí thứ 4 sẽ phải tranh suất tham dự bằng cách thi đấu một trận play-off. Đội xếp ở vị trí thứ 5 tại Premier League sẽ giành quyền tham dự UEFA Europa League. Các tấm vé cho suất đứng thứ 6,7 phụ thuộc vào đội vô địch Cúp quốc nội.</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>Mỗi trận thắng sẽ giành được 3 điểm, trận hòa 1 điểm và trận thua không tính điểm. Dựa theo số điểm đạt được, các đội được xếp hạng với số bàn thắng, thua khác nhau. Nếu được xếp cùng vị trí là họ có cùng điểm.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Mỗi câu lạc bộ bóng đá sẽ thi đấu vòng tròn 2 lượt với các đối thủ khác theo thể thức lượt đi và lượt về. Theo đó, khi 2 đội đối đầu với nhau sẽ có một trận diễn ra trên sân nhà và một trận trên sân khách.</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Mỗi mùa giải Premier League diễn ra sẽ có tổng cộng 380 trận đấu tương ứng với 38 vòng đấu. Theo đó, một mùa giải Premier League diễn ra nhất định phải có 38 vòng đấu. Các ngày cuối tuần chính là thời điểm mà các trận đấu diễn ra nhiều nhất.</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Premier League chính là một đấu trường mà bất kỳ câu lạc bộ bóng đá nào tại Anh cũng đều mong muốn được tham dự. Khi giải đấu mới bắt đầu thành lập có sự tham gia của khá nhiều đội bóng nhưng sau đó bạn tổ chức đã đưa ra quy định lại về số đội tham dự. Theo đó, mỗi mùa giải sẽ chỉ có 20 đội bóng hàng đầu tham gia tranh tài.</value>
+  </data>
+</root>

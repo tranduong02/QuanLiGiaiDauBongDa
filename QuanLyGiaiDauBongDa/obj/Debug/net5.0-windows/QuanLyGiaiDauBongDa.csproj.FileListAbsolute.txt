@@ -1,0 +1,1278 @@
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.exe
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.deps.json
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.json
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.dev.json
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLogin.resources
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfo.cs
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.genruntimeconfig.cache
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmHomePage.resources
+C:\Users\PC\source\repos\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.Properties.Resources.resources
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.exe
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.deps.json
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.json
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.dev.json
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachDoiBong.resources
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmHomePage.resources
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLogin.resources
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.Properties.Resources.resources
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfo.cs
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\PC\Desktop\PRN211 Programming with Dotnet\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.exe
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.deps.json
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.json
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmHomePage.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLogin.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmRegister.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.Properties.Resources.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CopyComplete
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.exe
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.deps.json
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.json
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmHomePage.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLogin.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmRegister.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.Properties.Resources.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CopyComplete
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAboutUs.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddMatch.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDau.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSendFeedback.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmViewAndEditInformation.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.AssemblyReference.cache
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAboutUs.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddClub.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddMatch.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmBangXepHang.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachCauThu.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachClub.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditClub.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmHomePage.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDau.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDauChoClub.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLogin.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmRegister.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSendFeedback.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmViewAndEditInformation.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.Properties.Resources.resources
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.GenerateResource.cache
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfoInputs.cache
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfo.cs
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CoreCompileInputs.cache
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.exe
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\appsettings.json
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.deps.json
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.json
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.dev.json
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Core.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Identity.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Humanizer.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CopyComplete
+D:\Projects\C#\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmBangXepHang.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachCauThu.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDauChoClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAboutUs.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddMatch.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmBangXepHang.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachCauThu.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDau.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDauChoClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSendFeedback.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmViewAndEditInformation.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.exe
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAboutUs.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddClub.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddMatch.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmBangXepHang.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachCauThu.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachClub.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditClub.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmHomePage.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDau.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDauChoClub.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLogin.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmRegister.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSendFeedback.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmViewAndEditInformation.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.Properties.Resources.resources
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.GenerateResource.cache
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfoInputs.cache
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfo.cs
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CoreCompileInputs.cache
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.AssemblyReference.cache
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.exe
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\appsettings.json
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.deps.json
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.json
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.dev.json
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Core.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Identity.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Humanizer.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CopyComplete
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.genruntimeconfig.cache
+E:\Kỳ 5\PRN211 Programming with Dotnet\Project\Code trên Git\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditPlayer.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditPlayer.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmListPlayerInClub.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.exe
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.deps.json
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.json
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDoiHinhThiDau.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAboutUs.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddCard.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddClub.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddGoal.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddMatch.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmBangXepHang.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachCauThu.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachClub.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDetailMatch.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditClub.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditMatch.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditPlayer.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmHomePage.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDau.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDauChoClub.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmListPlayerInClub.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLogin.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmRegister.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSendFeedback.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmViewAndEditInformation.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmXemDoiHinhThiDau.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CopyComplete
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\PaperNo_5\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.exe
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\1000_F_228280338_QOQy5pyAQUaeDZq6u1qTUEcZW6jCIJTZ.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\2.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\2.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\21.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\21.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\27090.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\2_Raphinha-3.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\3.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\39520735-illustration-of-a-striped-green-grass-background-image-.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\4.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\408175.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\6.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\7.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a1.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a10.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a11.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a12.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a13.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a14.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a15.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a16.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a17.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a18.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a19.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a2.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a20.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a21.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a3.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a4.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a5.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a6.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a7.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a8.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a9.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\aboutus.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\aboutuslogo.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\aboutuss111.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Adidas-tiet-lo-trai-bong-tuong-tac-cho-vong-knockout-World-cup-02_resize.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\amonestation.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\analytics.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\animated-click-here-sign-and-button-image-0040.gif
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\appinfo.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\arsenal-football-club-stadium-211427551515995098.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\arsenal.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\astonvilla.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\brentfold.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\brighton.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\burnley.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\calendar.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\chan-thuong-cua-paul-pogba.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\chelsea.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\clcikhereicon.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\cloud (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\cloud.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\contact.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Cristiano_Ronaldo_2018.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Cristiano_Ronaldo_20181.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\crystalpalace.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\DoiHinh.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\download (1).jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\download.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\download1.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\employee (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\epl-1455031805339.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\everton.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\exit.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\fc5edd6db81ddc1e81f640d2f5f57737.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football-background.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football-club (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football-player.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\gettyimages-1233858669-612x612.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\graph (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\heung-min-son.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Hinh-1-WC-ball.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\homeIcon.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\icon1.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\icon2.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\icon4.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\images (1).jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\images.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\info.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\istanbul-turkey-august-joy-smiles-cheer-sadio-mane-player-liverpool-fc-happy-emotions-celebrate-uefa-super-cup-trophy-188377002.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\jota.jpeg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\leeds.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\leicester.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\list (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\list.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\liverpool.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\LoginBackground.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\LoginBackground1.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\logo.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\manchestercity.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\match.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\mu.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\newcastle.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\nhung-hinh-anh-Old-Trafford-Wallpaper-dep-nhat-2.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\norwich.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\old-trafford-stadium.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\podium (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\premier-league-2.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\premier-league.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\premierLogo.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\referee (2).png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\referee (3).png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\sendmail.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\sendmail1.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\setting-tool.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\settings (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\skysports-jamie-vardy-leicester_5628869.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\soccer-football-grass-field-vivid-green-background-strong-color-nice-texture-39511876.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\soccer-player.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\southampton.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\striped-soccer-football-grass-field-texture-background-copy-space-soccer-football-grass-field-108344313.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\thumbnailBangXepHang.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\tottenham.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\tournament.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\watford.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\westham.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\wolves.png
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\_104701853_697ca00a-81fa-4c68-9278-67e5d27ea257.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.deps.json
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.json
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDoiHinhThiDau.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAboutUs.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddCard.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddGoal.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddMatch.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddReferee.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmBangXepHang.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachCauThu.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachTrongTai.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDetailMatch.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditMatch.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditPlayer.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditReferee.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmHomePage.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDau.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDauChoClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLogin.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmRegister.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSendFeedback.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSettingAccount.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmTheThucThamGia.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmThongSoGiaiDau.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmViewAndEditInformation.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmXemDoiHinhThiDau.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.Properties.Resources.resources
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CopyComplete
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\Admin\Desktop\Learn\PRN211\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.exe
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\1000_F_228280338_QOQy5pyAQUaeDZq6u1qTUEcZW6jCIJTZ.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\2.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\2.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\21.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\21.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\27090.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\2_Raphinha-3.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\3.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\39520735-illustration-of-a-striped-green-grass-background-image-.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\4.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\408175.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\6.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\7.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a1.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a10.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a11.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a12.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a13.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a14.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a15.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a16.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a17.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a18.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a19.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a2.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a20.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a21.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a3.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a4.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a5.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a6.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a7.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a8.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a9.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\aboutus.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\aboutuslogo.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\aboutuss111.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Adidas-tiet-lo-trai-bong-tuong-tac-cho-vong-knockout-World-cup-02_resize.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\amonestation.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\analytics.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\animated-click-here-sign-and-button-image-0040.gif
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\appinfo.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\arsenal-football-club-stadium-211427551515995098.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\arsenal.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\astonvilla.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\brentfold.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\brighton.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\burnley.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\calendar.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\chan-thuong-cua-paul-pogba.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\chelsea.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\clcikhereicon.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\cloud (1).png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\cloud.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\contact.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Cristiano_Ronaldo_2018.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Cristiano_Ronaldo_20181.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\crystalpalace.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\DoiHinh.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\download (1).jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\download.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\download1.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\employee (1).png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\epl-1455031805339.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\everton.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\exit.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\fc5edd6db81ddc1e81f640d2f5f57737.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football (1).png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football-background.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football-club (1).png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football-player.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\gettyimages-1233858669-612x612.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\graph (1).png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\heung-min-son.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Hinh-1-WC-ball.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\homeIcon.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\icon1.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\icon2.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\icon4.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\images (1).jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\images.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\info.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\istanbul-turkey-august-joy-smiles-cheer-sadio-mane-player-liverpool-fc-happy-emotions-celebrate-uefa-super-cup-trophy-188377002.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\jota.jpeg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\leeds.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\leicester.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\list (1).png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\list.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\liverpool.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\LoginBackground.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\LoginBackground1.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\logo.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\manchestercity.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\match.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\mu.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\newcastle.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\nhung-hinh-anh-Old-Trafford-Wallpaper-dep-nhat-2.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\norwich.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\old-trafford-stadium.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\podium (1).png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\premier-league-2.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\premier-league.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\premierLogo.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\referee (2).png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\referee (3).png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\sendmail.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\sendmail1.PNG
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\setting-tool.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\settings (1).png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\skysports-jamie-vardy-leicester_5628869.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\soccer-football-grass-field-vivid-green-background-strong-color-nice-texture-39511876.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\soccer-player.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\southampton.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\striped-soccer-football-grass-field-texture-background-copy-space-soccer-football-grass-field-108344313.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\thumbnailBangXepHang.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\tottenham.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\tournament.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\watford.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\westham.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\wolves.png
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\_104701853_697ca00a-81fa-4c68-9278-67e5d27ea257.jpg
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDoiHinhThiDau.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAboutUs.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddCard.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddClub.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddGoal.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddMatch.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddReferee.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmBangXepHang.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachCauThu.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachClub.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachTrongTai.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDetailMatch.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditClub.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditMatch.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditPlayer.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditReferee.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmHomePage.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDau.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDauChoClub.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLogin.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmRegister.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSendFeedback.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSettingAccount.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmTheThucThamGia.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmThongSoGiaiDau.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmViewAndEditInformation.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmXemDoiHinhThiDau.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CopyComplete
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\admin\OneDrive\Máy tính\PRN211_PE_SP22_B1_090465\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDoiHinhThiDau.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAboutUs.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddCard.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddGoal.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddMatch.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddReferee.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmBangXepHang.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachCauThu.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachTrongTai.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDetailMatch.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditMatch.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditPlayer.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditReferee.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmHomePage.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDau.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDauChoClub.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmListPlayer.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLogin.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmRegister.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSendFeedback.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSettingAccount.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmTheThucThamGia.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmThongSoGiaiDau.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmViewAndEditInformation.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmXemDoiHinhThiDau.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.exe
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\1000_F_228280338_QOQy5pyAQUaeDZq6u1qTUEcZW6jCIJTZ.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\2.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\2.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\21.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\21.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\27090.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\2_Raphinha-3.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\3.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\39520735-illustration-of-a-striped-green-grass-background-image-.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\4.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\408175.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\6.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\7.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a1.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a10.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a11.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a12.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a13.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a14.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a15.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a16.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a17.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a18.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a19.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a2.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a20.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a21.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a3.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a4.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a5.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a6.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a7.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a8.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a9.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\aboutus.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\aboutuslogo.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\aboutuss111.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Adidas-tiet-lo-trai-bong-tuong-tac-cho-vong-knockout-World-cup-02_resize.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\amonestation.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\analytics.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\animated-click-here-sign-and-button-image-0040.gif
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\appinfo.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\arsenal-football-club-stadium-211427551515995098.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\arsenal.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\astonvilla.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\brentfold.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\brighton.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\burnley.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\calendar.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\chan-thuong-cua-paul-pogba.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\chelsea.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\clcikhereicon.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\cloud (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\cloud.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\contact.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Cristiano_Ronaldo_2018.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Cristiano_Ronaldo_20181.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\crystalpalace.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\DoiHinh.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\download (1).jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\download.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\download1.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\employee (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\epl-1455031805339.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\everton.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\exit.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\fc5edd6db81ddc1e81f640d2f5f57737.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football-background.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football-club (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football-player.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\gettyimages-1233858669-612x612.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\graph (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\heung-min-son.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Hinh-1-WC-ball.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\homeIcon.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\icon1.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\icon2.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\icon4.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\images (1).jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\images.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\info.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\jota.jpeg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\leeds.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\leicester.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\list (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\list.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\liverpool.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\LoginBackground.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\LoginBackground1.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\logo.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\manchestercity.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\match.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\mu.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\newcastle.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\nhung-hinh-anh-Old-Trafford-Wallpaper-dep-nhat-2.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\norwich.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\old-trafford-stadium.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\podium (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\premier-league-2.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\premier-league.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\premierLogo.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\referee (2).png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\referee (3).png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\sendmail.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\sendmail1.PNG
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\setting-tool.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\settings (1).png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\skysports-jamie-vardy-leicester_5628869.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\soccer-football-grass-field-vivid-green-background-strong-color-nice-texture-39511876.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\soccer-player.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\southampton.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\striped-soccer-football-grass-field-texture-background-copy-space-soccer-football-grass-field-108344313.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\thumbnailBangXepHang.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\tottenham.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\tournament.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\watford.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\westham.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\wolves.png
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\_104701853_697ca00a-81fa-4c68-9278-67e5d27ea257.jpg
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.Properties.Resources.resources
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CopyComplete
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.deps.json
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.json
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\Admin\Desktop\Learn\PRN211\Project\New folder\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDoiHinhThiDau.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAboutUs.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddCard.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddClub.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddGoal.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddMatch.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmAddReferee.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmBangXepHang.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachCauThu.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachClub.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDanhSachTrongTai.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmDetailMatch.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditClub.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditMatch.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditPlayer.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmEditReferee.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmHomePage.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDau.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLichThiDauChoClub.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmListPlayer.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmLogin.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmRegister.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSendFeedback.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmSettingAccount.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmTheThucThamGia.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmThongSoGiaiDau.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmXemDoiHinhThiDau.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.csproj.CopyComplete
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\refint\QuanLyGiaiDauBongDa.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\1000_F_228280338_QOQy5pyAQUaeDZq6u1qTUEcZW6jCIJTZ.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\2.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\2.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\21.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\21.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\27090.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\2_Raphinha-3.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\3.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\39520735-illustration-of-a-striped-green-grass-background-image-.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\4.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\408175.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\6.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\7.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a1.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a10.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a11.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a12.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a13.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a14.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a15.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a16.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a17.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a18.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a19.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a2.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a20.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a21.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a3.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a4.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a5.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a6.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a7.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a8.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\a9.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\aboutus.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\aboutuslogo.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\aboutuss111.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Adidas-tiet-lo-trai-bong-tuong-tac-cho-vong-knockout-World-cup-02_resize.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\amonestation.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\analytics.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\animated-click-here-sign-and-button-image-0040.gif
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\appinfo.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\arsenal-football-club-stadium-211427551515995098.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\arsenal.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\astonvilla.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\brentfold.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\brighton.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\burnley.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\calendar.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\chan-thuong-cua-paul-pogba.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\chelsea.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\clcikhereicon.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\cloud (1).png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\cloud.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\contact.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Cristiano_Ronaldo_2018.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Cristiano_Ronaldo_20181.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\crystalpalace.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\DoiHinh.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\download (1).jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\download.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\download1.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\employee (1).png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\epl-1455031805339.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\everton.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\exit.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\fc5edd6db81ddc1e81f640d2f5f57737.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football (1).png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football-background.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football-club (1).png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football-player.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\football.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\gettyimages-1233858669-612x612.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\graph (1).png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\heung-min-son.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\Hinh-1-WC-ball.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\homeIcon.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\icon1.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\icon2.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\icon4.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\images (1).jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\images.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\info.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\jota.jpeg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\leeds.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\leicester.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\list (1).png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\list.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\liverpool.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\LoginBackground.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\LoginBackground1.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\logo.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\manchestercity.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\match.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\mu.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\newcastle.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\nhung-hinh-anh-Old-Trafford-Wallpaper-dep-nhat-2.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\norwich.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\old-trafford-stadium.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\podium (1).png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\premier-league-2.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\premier-league.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\premierLogo.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\referee (2).png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\referee (3).png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\sendmail.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\sendmail1.PNG
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\setting-tool.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\settings (1).png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\skysports-jamie-vardy-leicester_5628869.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\soccer-football-grass-field-vivid-green-background-strong-color-nice-texture-39511876.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\soccer-player.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\southampton.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\striped-soccer-football-grass-field-texture-background-copy-space-soccer-football-grass-field-108344313.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\thumbnailBangXepHang.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\tottenham.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\tournament.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\watford.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\westham.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\wolves.png
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\Resources\_104701853_697ca00a-81fa-4c68-9278-67e5d27ea257.jpg
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.deps.json
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.json
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\bin\Debug\net5.0-windows\QuanLyGiaiDauBongDa.pdb
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\ref\QuanLyGiaiDauBongDa.dll
+C:\Users\admin\OneDrive\Máy tính\QuanLyGiaiDauBongDa\QuanLyGiaiDauBongDa\obj\Debug\net5.0-windows\QuanLyGiaiDauBongDa.FrmViewAndEditInformation.resources
